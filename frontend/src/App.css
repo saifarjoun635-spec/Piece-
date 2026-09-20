@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
